@@ -1,0 +1,6 @@
+Division of work report for proposal and presentation
+-Preprocessing was worked on by Manita Ngarmpaiboonsombat, Wenhiu Liu
+-Inception Mechanisms worked on by Yibo Li
+-GoogleLeNet was worked on by Manita Ngarmpaiboonsombat, Wenhiu Liu, Yibo Li
+-VGG was worked on by Shane Corson, Shane Calla
+
